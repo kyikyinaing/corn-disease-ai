@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Uploads
+uploads/
+
+# Next.js
+corn-ui/node_modules/
+corn-ui/.next/
+corn-ui/out/

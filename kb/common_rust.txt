@@ -1,0 +1,36 @@
+Common Rust (corn)
+
+What it is:
+- A fungal disease that creates small rust-like spots (pustules) on the leaf.
+
+Main symptoms:
+- Small round to oval spots that look orange/brown.
+- Spots may feel slightly raised and can rub off like powder.
+- Mostly on upper leaf surface but can be on both sides.
+
+How to confirm:
+1) Look for orange/brown powdery spots.
+2) Rub gently: if orange powder comes off, it is likely rust.
+3) Many small spots across the leaf (not one big dead area).
+
+What can cause it / risk factors:
+- Cool to mild temperatures, moisture on leaves, dew/fog.
+- Dense planting (poor airflow).
+- Susceptible corn variety.
+
+Treatment (safe + practical):
+- Remove heavily infected leaves if infection is strong (do not spread to healthy plants).
+- Improve airflow: remove weeds, avoid overcrowding.
+- If the disease is spreading quickly and many plants are affected:
+  - Consider a fungicide that is recommended for corn rust (follow local label rules).
+  - Best is to ask local agriculture extension for the correct product.
+
+Prevention:
+- Use rust-resistant varieties.
+- Rotate crops and remove old corn debris after harvest.
+- Avoid overhead irrigation at night.
+- Monitor early: treat early if it starts spreading.
+
+When to ask an expert:
+- If more than 30–40% of leaves show rust, or yield is at risk.
+- If you are unsure whether it is rust or another disease.
